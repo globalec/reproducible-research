@@ -148,4 +148,4 @@ library(lattice)
 xyplot(steps_by_interval_i$steps ~ steps_by_interval_i$interval|steps_by_interval_i$dow, main="Average Steps per Day by Interval",xlab="Interval", ylab="Steps",layout=c(1,2), type="l")
 ```
 
-![plot of chunk unnamed-chunk-10](./Reproducible_Research_Project_1_Steps_files/figure-html/unnamed-chunk-10.png) 
+
